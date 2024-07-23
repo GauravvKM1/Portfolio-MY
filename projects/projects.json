@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "URL Trimmer",
+        "desc": "Developed a full stack URL shortener application, Implemented functionality, Qr Code Generation, user authentication.[React.js, Tailwind CSS, Supabase, Shadcn UI, MongoDB, JWT]",
+        "image": "./assets/images/projects/Urltrim.png",
+        "links": {
+            "view": "https://url-trimmer-steel.vercel.app/",
+            "code": "https://github.com/GauravvKM1/Url_Trimmer"
+        }
+    },
+    {
+        "id": 2,
+        "name": "CodeEdit",
+        "desc": "CodeEdit is a versatile online code editor that supports over 40 programming languages, [integration of ReactJS, Tailwind CSS, Monaco Code Editor, Judge0 API, and RapidAPI]",
+        "image": "./assets/images/projects/CodeEdit.png",
+        "links": {
+            "view": "https://github.com/GauravvKM1/CodeEdit",
+            "code": "https://github.com/GauravvKM1/CodeEdit"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Cryptoadda",
+        "desc": "Build Feature Rich Crypto Screener App with React JS and Tailwind CSS. This App is created with context API, react-router and Cryptocurrency APIs. © 2021 Gaurav Mishra",
+        "image": "./assets/images/image.png",
+        "links": {
+            "view": "https://github.com/GauravvKM1/CryptoAdda",
+            "code": "https://github.com/GauravvKM1/CryptoAdda"
+        }
+    },
+    {
+        "id": 4,
+        "name": "WeatherUno",
+        "desc": "This is a Weather App Which show Weather Condition of Diff Locations built using HTML, CSS, JavaScript and Tailwind.",
+        "image": "./assets/images/projects/WeatherApp.png",
+        "links": {
+            "view": "https://gauravvkm1.github.io/WeatherUno/",
+            "code": "https://github.com/GauravvKM1/WeatherUno"
+        }
+    },
+    {
+        "id": 5,
+        "name": "PassWord Generator",
+        "desc": "This app Generates different password Combinations for different test Conditions, with Intuitive UI, [HTML, CSS, JavaScript]",
+        "image": "./assets/images/projects/PasswordGenearator.png",
+        "links": {
+            "view": "https://password-generator-coral-six.vercel.app/",
+            "code": "https://github.com/GauravvKM1/PasswordGenerator"
+        }
+    },
+    {
+        "id": 6,
+        "name": "RogAnimation",
+        "desc": "Developed an interactive and visually dynamic website utilizing HTML, CSS, JavaScript, GSAP, Locomotive Scroll, and Shery.js.",
+        "image": "./assets/images/projects/Obys.png",
+        "links": {
+            "view": "https://rog-animation.vercel.app/",
+            "code": "https://github.com/GauravvKM1/RogAnimation"
+        }
+    }
+]
