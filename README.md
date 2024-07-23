@@ -17,6 +17,8 @@ Visit Now🚀
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page:
+![image](https://github.com/user-attachments/assets/f0ff1eae-d2a8-42c1-bc7f-3d9044f7b9d6)
+
 
 <h2>📬 Contact</h2>
 
