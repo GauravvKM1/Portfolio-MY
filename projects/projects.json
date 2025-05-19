@@ -19,16 +19,7 @@
             "code": "https://github.com/GauravvKM1/CodeEdit"
         }
     },
-    {
-        "id": 3,
-        "name": "Cryptoadda",
-        "desc": "Build Feature Rich Crypto Screener App with React JS and Tailwind CSS. This App is created with context API, react-router and Cryptocurrency APIs. © 2021 Gaurav Mishra",
-        "image": "./assets/images/image.png",
-        "links": {
-            "view": "https://github.com/GauravvKM1/CryptoAdda",
-            "code": "https://github.com/GauravvKM1/CryptoAdda"
-        }
-    },
+   
     {
         "id": 4,
         "name": "WeatherUno",
@@ -60,3 +51,13 @@
         }
     }
 ]
+ /*{
+        "id": 3,
+        "name": "Cryptoadda",
+        "desc": "Build Feature Rich Crypto Screener App with React JS and Tailwind CSS. This App is created with context API, react-router and Cryptocurrency APIs. © 2021 Gaurav Mishra",
+        "image": "./assets/images/image.png",
+        "links": {
+            "view": "https://github.com/GauravvKM1/CryptoAdda",
+            "code": "https://github.com/GauravvKM1/CryptoAdda"
+        }
+    },*/
